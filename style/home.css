@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+h1 {
+    font-family: 'Poppins', sans-serif;
+}
+.fondo__azul {
+    background-color: #00bcd4;
+}
+.text__white {
+    color: white;
+}
+.banner__container {
+	width: 100%;
+    height: 70%;
+    padding:1rem;
+}
+.banner_agenda{
+ padding-top: 6rem!important;
+}
+.banner__home {
+    display: flex;
+    justify-content: space-between;
+}
+.banner__logo {}
+.banner__login a{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+.banner__img{
+
+}
